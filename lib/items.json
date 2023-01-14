@@ -1,0 +1,33 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Ayam Geprek",
+      "price": 25000.0,
+      "desc": "Nasi + Ayam Geprek",
+      "image": "https://www.federaloil.co.id/assets/collections/upload/Ayam%20geprek.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Pecel Lele",
+      "price": 23000.0,
+      "desc": "Nasi + Lele goreng + Sambel",
+      "image": "https://img.kurio.network/OpH6XcpyRpN0qV_bjh4Xp8sKOx0=/1200x900/filters:quality(80)/https://kurio-img.kurioapps.com/20/11/21/b2aecfb2-fefd-415f-9424-2485a95d41ef.png"
+    },
+    {
+      "id": 3,
+      "name": "Es Teh",
+      "price": 4000.0,
+      "desc": "Es Teh Manis",
+      "image": "https://images.tokopedia.net/img/cache/700/VqbcmM/2021/2/14/bbe17d0b-34c0-44d3-8373-c53c7a5dee91.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Es Jeruk",
+      "price": 5000.0,
+      "desc": "Es Jeruk Manis",
+      "image": "https://d1sag4ddilekf6.azureedge.net/compressed/items/IDITE2020070304014582905/photo/menueditor_item_253ff2b5962b44bb89023bea846a99d2_1593748902716267494.jpg"
+    }
+  ],
+  "cart": []
+}
